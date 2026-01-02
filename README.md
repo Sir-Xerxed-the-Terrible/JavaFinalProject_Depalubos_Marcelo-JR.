@@ -8,3 +8,4 @@ Program Features:     " 1. Adding Student to the System", " 2. Viewing the stude
 How to run the program:  Using the program features as the reference, use the first feature to add student to the list, then use the second feature to view the list, and then use the third feature to search for a specific student from the list. Lastly, use the fourth feature to delete a student from the list 
 
 Sample Output:     
+[SampleOutput.docx](https://github.com/user-attachments/files/24405801/SampleOutput.docx)
